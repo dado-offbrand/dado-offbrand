@@ -1,9 +1,5 @@
 <b>About Me</b>
-
-I'm just a programmer who knows a several programming languages 
-and I make small projects for my convenience/entertainment.
-I love small challenges, although I do not have much motivation 
-for long-term projects that require upkeeping.
+I do many things, most of which my website covers: https://ben-ward.netlify.app
 
 <hr>
 
